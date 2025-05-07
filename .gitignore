@@ -1,1 +1,6 @@
 log.log
+*.vsidx
+/.vs/pz1infsistem/FileContentIndex/3801cd99-8dbf-4b12-9f72-4b9730755e94.vsidx
+/.vs/pz1infsistem/FileContentIndex/3e882564-dbf1-46ed-afef-c3ded1e0d17c.vsidx
+/.vs/slnx.sqlite
+/.vs
